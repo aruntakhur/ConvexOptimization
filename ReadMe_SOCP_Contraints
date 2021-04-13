@@ -6,3 +6,6 @@ All the code is relevant to convex optimization for learning and visualization.
 % 1st hyperplane => x+y-1
 % 2nd hyperplane => x-y-1
 % c'x + d => x+1
+
+Video explaining the code at the given link:
+https://youtu.be/BhdNFFyta4c
