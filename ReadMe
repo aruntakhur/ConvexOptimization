@@ -1,1 +1,8 @@
 All the code is relevant to convex optimization for learning and visualization.
+
+%% This code is for visualizing Second Order Cone Constraints of the following form
+%|| Ax + b|| < c'x + d   # c' = traspose(c)  # ||.|| is norm 2
+% In my example I have taken A as 2x2 matrix defining two hyperplanes
+% 1st hyperplane => x+y-1
+% 2nd hyperplane => x-y-1
+% c'x + d => x+1
